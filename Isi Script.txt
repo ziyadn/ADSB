@@ -1,0 +1,27 @@
+practice python 1:
+  a. basic arithmatic
+  b. basic function (max,min,len,help,def,map,lambda)
+  c. matrix calculation
+  d. dictionary
+  e. dataframe (selecting, sort_values, groupby)
+
+practice python 2:
+  a. dataframe (isnull, dropna, fillna, concat)
+  b. merge, join
+ 
+practice python 3:
+  a. plot (plt.plot, plt.subplot, tight_layout, xlim-ylim, legend-annote)
+  b. histogram
+  c. seaborn (distplot, lmplot, countplot, strip, swarm, boxplot, joinplot, pairplot, barplot)
+  d. Time series
+  
+visualisasi:
+  a. hist
+  b. area plot
+  c. bar plot
+  d. line plot
+  e. scatter plot
+  f. kernel density
+  
+
+  
